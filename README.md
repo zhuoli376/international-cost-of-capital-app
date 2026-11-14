@@ -2,7 +2,7 @@
 
 A Streamlit app that compares a project's **cost of equity, cost of debt and WACC in U.S. dollars and in the currency of any selected country**.
 
-**Live app:** _add your Streamlit URL here_
+**Live app:** https://international-cost-of-capital-app-89xspzsbb39umxojzdz4xe.streamlit.app/
 
 ## What it does
 
